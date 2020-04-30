@@ -1,4 +1,9 @@
 <details>
+  <summary><strong>algorithm</strong></summary><br>
+  
+a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+</details>
+<details>
   <summary><strong>determinism</strong></summary><br>
 
 determinism is the philosophical belief that **all events are determined completely by previously existing causes**. the opposite of determinism is some kind of indeterminism (otherwise called nondeterminism) or randomness. determinism is often contrasted with free will.
