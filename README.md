@@ -31,6 +31,15 @@ a **deterministic algorithm** is an algorithm which, **given a particular input,
 
 </details>
 <details>
+  <summary><strong>idiomatic</strong></summary><br>
+
+- using, containing, or denoting expressions that are natural to a native speaker.
+- pertaining or conforming to the natural mode of expression of a language.
+- the most natural way to express something in a language.
+
+**idiomatic code** means following the conventions of the language. you should find the easiest and most common ways of accomplishing a task rather than porting your knowledge from a different language.
+</details>
+<details>
   <summary><strong>paradigm</strong></summary><br>
 
 a paradigm is a set of rules and regulations that does two things:
