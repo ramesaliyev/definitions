@@ -1,11 +1,11 @@
 <details>
   <summary><strong>algorithm</strong></summary><br>
-  
+
 a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 </details>
 <details>
   <summary><strong>analogy</strong></summary><br>
-  
+
 a comparison between one thing and another, typically for the purpose of explanation or clarification.
 </details>
 <details>
@@ -21,14 +21,11 @@ also, randomness and non-determinism are two separate notions in computer scienc
 
 a **deterministic algorithm** is an algorithm which, **given a particular input, will always produce the same output**, with the underlying machine always passing through the same sequence of states. but in case of **non-deterministic algorithm**, for the same input, the algorithm may produce different output in different runs.
 
-### resources and further reading
+</details>
+<details>
+  <summary><strong>hierarchy</strong></summary><br>
 
-- [determinism](https://en.wikipedia.org/wiki/Determinism)
-- [deterministic algorithm](https://en.wikipedia.org/wiki/Deterministic_algorithm)
-- [meaning of deterministic and non deterministic in computer-science](https://www.quora.com/What-is-the-meaning-of-deterministic-and-non-deterministic-in-computer-science)
-- [what is determinism in computer science](https://cs.stackexchange.com/questions/38152/what-is-determinism-in-computer-science)
-- [differences and relationships between randomized and nondeterministic algorithms](https://cs.stackexchange.com/questions/5008/differences-and-relationships-between-randomized-and-nondeterministic-algorithms)
-
+a hierarchy is an arrangement of items in which the items are represented as being `above`, `below`, or `at the same level as` one another.
 </details>
 <details>
   <summary><strong>idiomatic</strong></summary><br>
@@ -51,4 +48,9 @@ words that represent subsets of the paradigm concept: theory, model, methodology
 words like culture, organization, worldview, business, education did not appear because they are forests of paradigms.
 
 *Discovering the Future: The Business of Paradigms, Joel Arthur Barker*
+</details>
+<details>
+  <summary><strong>taxonomy</strong></summary><br>
+
+taxonomy is the practice and science of classification of things or concepts, including the principles that underlie such classification.
 </details>
