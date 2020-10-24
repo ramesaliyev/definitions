@@ -22,6 +22,19 @@ a comparison between one thing and another, typically for the purpose of explana
 the arity of a function is an integer representing how many arguments can be passed to the function.
 
 </details>
+<details><summary><strong>cardinality</strong></summary><br>
+
+*In Set Theory, number of elements in a set called Cardinality not 'length' or 'total'?. Why?*
+
+Well, length and cardinality are not the same thing. The interval [0,1] has a different length from [0,2], but their cardinalities are the same. "Size" is often related to length, and "total" doesn't really relate to the concept very well (it implies summing all elements of a set).
+
+It's called "cardinality" because it's related to cardinal numbers. In natural language, we call "one, two, three..." cardinal numbers, and "first, second, third..." ordinal numbers. The former tells you "how many there are", the second tells you "where in the order something is".
+
+Cardinality tells you how many things there are in a set, so it generalizes the cardinal numbers, hence the name.
+
+[reddit](https://www.reddit.com/r/askmath/comments/6zuiob/why_is_it_called_cardinality_and_not_length_or/)
+
+</details>
 <details><summary><strong>code hot-loading</strong></summary><br>
 
 upgrading an application while it runs, without stopping it
